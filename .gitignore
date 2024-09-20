@@ -1,0 +1,5 @@
+data_stream_visualizer/node_modules
+data_stream_visualizer/public
+data_stream_visualizer/package-lock.json
+__pycache__
+pg.ipynb
